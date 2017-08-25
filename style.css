@@ -75,7 +75,8 @@ a:hover {
 #footer {
 	position: relative;
 	height: 50px;
-	background-color: #668284;
+	width: 97.5%;
+	background-color: #123456;
 	clear: both;
 	font-family: Helvetica, sans-serif;
 	font-size: 14px;
